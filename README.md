@@ -1,2 +1,5 @@
 # hello-world
-An exercise project
+An exercise but not a good practice.
+
+
+Adding some new changes
